@@ -24,9 +24,9 @@ Comparativo histórico entre equipe
 Próximas Fases
 📊 Power BI Integration
 Dashboard com:
-Heatmaps de desgaste por circuito
-Linha do tempo interativa de pit stops
-Comparativo em tempo real entre pilotos
+Heatmaps de desgaste por circuito,
+Linha do tempo interativa de pit stops,
+Comparativo em tempo real entre pilotos.
 
 🌟 Por Que Este Projeto é Único?
 🔬 Abordagem Científica
