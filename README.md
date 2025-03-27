@@ -34,11 +34,15 @@ Comparativo em tempo real entre pilotos
 Unimos engenharia automotiva com data science
 
 📱 Aplicação Prática
+
 Insights usáveis por:
 
 Equipes de simulação
+
 Comentaristas esportivos
+
 Fantasistas profissionais
 
 🔄 Evolução Constante
+
 Roadmap aberto à comunidade
