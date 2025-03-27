@@ -3,7 +3,7 @@ Descubra os segredos por trás do desempenho dos pneus nas corridas mais emocion
 
 🌟 Sobre o Projeto
 Este projeto nasceu da paixão por Fórmula 1 e da curiosidade em entender como o controle de pneus influencia os resultados das corridas. 
-Nosso objetivo é criar o banco de dados mais completo sobre desempenho de pneus na F1, transformando números em insights estratégicos:
+Meu objetivo é criar o banco de dados mais completo sobre desempenho de pneus na F1, transformando números em insights estratégicos:
 
 ✅ Análise de Degradação
 
