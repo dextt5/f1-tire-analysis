@@ -27,3 +27,18 @@ Dashboard com:
 Heatmaps de desgaste por circuito
 Linha do tempo interativa de pit stops
 Comparativo em tempo real entre pilotos
+
+🌟 Por Que Este Projeto é Único?
+🔬 Abordagem Científica
+
+Unimos engenharia automotiva com data science
+
+📱 Aplicação Prática
+Insights usáveis por:
+
+Equipes de simulação
+Comentaristas esportivos
+Fantasistas profissionais
+
+🔄 Evolução Constante
+Roadmap aberto à comunidade
